@@ -8,9 +8,9 @@ I am using the markdown kind of **file**
 `this is the code
 yes`
 
--[x] eat bfast
--[ ] eat lunch
--[ ] not ==sustain==
+- [x] eat bfast
+- [ ] eat lunch
+- [ ] not ==sustain==
 
 e^j*theta^
 
